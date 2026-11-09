@@ -23,6 +23,7 @@ Keep research files in the separate private research workspace. The public produ
 - `index.html`: copy, navigation, contact email, and abstract conceptual illustration.
 - `styles.css`: responsive layout, typography, and colors.
 - `assets/dada-walrus.svg`: full supplied badge, retained for the favicon and sharing metadata.
+- `favicon.ico`, `apple-touch-icon.png`, and `assets/favicon-*.png`: browser and mobile icon fallbacks, derived from the full badge.
 - `assets/hand.svg` and `assets/wordmark.svg`: hand and straightened original outlined letters for the header and footer.
 - `assets/fonts/`: locally hosted DM Sans and Space Grotesk, licensed under the SIL Open Font License (see included license files).
 - `script.js`: footer year, animation controls, and reduced-motion preference.
