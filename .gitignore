@@ -1,7 +1,18 @@
+# Credentials and local environment files
 .env
 .env.*
-!.env.example
-.DS_Store
-node_modules/
 
+# Dependencies and local caches
+node_modules/
+.cache/
+
+# Local previews and logs
 .preview-*
+*.log
+
+# Operating system and editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
